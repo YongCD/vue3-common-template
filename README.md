@@ -35,3 +35,6 @@ yarn dev
 yarn build
 ```
 ![image](https://github.com/YongCD/vue3-common-template/assets/167515662/4202c6c9-778a-4e76-bf0e-48e36a9ec164)
+
+![image](https://github.com/YongCD/vue3-common-template/assets/167515662/7d2cce04-5761-400a-a641-71391ef74e24)
+
