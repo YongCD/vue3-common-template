@@ -34,4 +34,4 @@ yarn dev
 ```sh
 yarn build
 ```
->>>>>>> 6b6675a (completed)
+![image](https://github.com/YongCD/vue3-common-template/assets/167515662/4202c6c9-778a-4e76-bf0e-48e36a9ec164)
